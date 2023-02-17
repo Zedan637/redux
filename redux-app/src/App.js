@@ -4,7 +4,7 @@ function App() {
   return (
     <div>
       <h1>Hello World</h1>
-      console.log('hello')
+      console.log("Hello World")
     </div>
   );
 }
