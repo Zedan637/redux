@@ -14,7 +14,9 @@ function Circle(props) {
     width: '100px',
     height: '100px',
     margin: '10px',
-    display: 'inline-block',
+    display: 'flex',
+    flexDirection: 'column',
+    alignItems: 'flex-start',
   };
 
   return (
