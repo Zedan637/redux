@@ -1,11 +1,11 @@
 import React from 'react'
-import CircleContainer from './CircleContainer';
+import CircleCounter from './CircleCounter';
 
 function App() {
     
   return (
     <div>
-      <CircleContainer/>
+      <CircleCounter/>
     </div>
   );
 }
